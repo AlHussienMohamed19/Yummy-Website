@@ -1,2 +1,3 @@
 # Yummy-Website
-<h1>Yummy is a website about food</h1>
+
+<h1>Website about Food</h1>
